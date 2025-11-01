@@ -1,6 +1,6 @@
 # Oluwaseun Muyiwa - Data Analyst Portfolio
 
-This is my professional data analytics portfolio website, built to showcase my skills and projects — including my 10Alytics Capstone Project: *NovaMed Solutions – Sales Performance Analysis and Reporting*.
+This is my professional data analytics portfolio website, built to showcase my skills and projects.
 
 
 
